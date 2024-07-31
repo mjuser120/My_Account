@@ -52,3 +52,18 @@ Password:mjuser123
 Username:sys
 
 Password:12345
+
+# 9.  N0va Desktop Account
+Username:mjreytos@gmail.com
+
+Password:mjreytos456
+
+Name:MJchan
+
+# 10. Twitch Account
+Email:mjuser299@gmail.com
+
+Username:Misdirection15
+
+Password:mjreytospogi123
+Name:Misdirection15 
