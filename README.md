@@ -12,8 +12,8 @@ Password:reytosfamily56
 Name:Mark Jonathan
 
 3. Gmail School Account
-email: reytos.mj.bsinfotech@gmail.com
-Pss:mjreytos123456
+Email: reytos.mj.bsinfotech@gmail.com
+Password:mjreytos123456
 Name:G - 868044
 
 4. EARIST School Account
