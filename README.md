@@ -12,14 +12,14 @@ Password:reytosfamily56
 Name:Mark Jonathan
 
 3. Gmail School Account
-Email: reytos.mj.bsinfotech@gmail.com
+Email:reytos.mj.bsinfotech@gmail.com
 Password:mjreytos123456
 Name:G - 868044
 
 4. EARIST School Account
-Student number: 204-0383
-Username: 204-0383
-Password: reytos
+Student number:204-0383
+Username:204-0383
+Password:reytos
 
 5. Shoope Account
 Username:MJReytos
