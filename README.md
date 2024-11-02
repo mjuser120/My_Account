@@ -125,10 +125,87 @@ School year: Graduated
 
 # 18. chat.openai or ChatGPT(OpenAi)
 * 1st account
+
 Username:mjuser299@gmail.com
+
 Password:mjuser123
+
 Name: Mark Jonathan Reytos
 
 * 2nd Account
+
 Email:reytosmarkjonathan@gmail.com
+
 Password: reytosfamily32
+
+# 19. Tommics
+Username:mjuser299@gmail.com
+
+Password:mjuser123
+
+# 20. Autodesk(Tinkercad)
+Username: reytos.mj.bsinfotech@gmail.com
+
+Password: mjreytos123456
+
+# 21. GeForce Experience
+Email:mjreytos@gmail.com
+
+Password:mjuser@123
+
+Display name:Misdirection02
+
+# 22. Adobe
+Email: mjuser299@gmail.com
+
+Password: mjuser123
+
+Name: Mark Jonathan Reytos
+
+# 23. Firefox
+Email: mjreytos@gmail.com
+
+Password: mjreytoms456
+
+# 24. Unity
+Email: mjuser299@gmail.com
+
+Username: misdirection15
+
+Password:Mjmaster456
+
+Full name: Mark Jonathan Reytos
+
+* Publish
+
+Password:mjuser123
+
+* key values
+
+Alias: sciplay
+
+Password:mjuser456
+
+25. Viber
+Phone number: 09274020654
+
+Email: mjuser299@gmail.com
+
+Name: MJ_Reytos
+
+26. Youth forimee(Cash for Work/DSWD)
+Phone:09274020654
+
+Email: mjreytos@gmail.com
+
+Password: mjreytos456
+
+# 27. Accenture
+Email: mjreytos@gmail.com
+
+Password: R3ytos@123
+
+# 28. LinkedIn(IN)
+Email: mjreytos@gmail.com
+
+Password: mjreytos456
