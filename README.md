@@ -1,4 +1,4 @@
-# My Account
+# My Account for online
 
 # Online Communication and send Account
 # 1. Old Gmail Account
@@ -68,4 +68,25 @@ Username:Misdirection15
 Password:mjreytospogi123
 Name:Misdirection15
 
-# 11. 
+# 11. Mega.nz
+Username: mjreytos@gmail.com
+
+Password: mjreytos123
+
+# 12. Discord
+Email:reytosmarkjonathan@gmail.com
+
+Username:mjchan_#4434
+
+Password:mjreytos123
+
+Name:Misdirection_#4434
+
+# 13. Github
+Username: mjuser120
+
+Emal: mjuser299@gmail.com
+
+Password: mjuser12
+
+Name: MJ Reytos
