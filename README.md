@@ -90,3 +90,48 @@ Emal: mjuser299@gmail.com
 Password: mjuser12
 
 Name: MJ Reytos
+
+# 14. 000webhost
+Email:mjuser299@gmail.com
+
+Password: mjuser123
+
+# 15. hoyolab
+Username:(Genshin Account)
+
+Password:(Genshin Account)
+
+Name: MJchan
+
+Account ID: 76113498
+
+# 16. QooApp
+Username:reytosmarkjonathan@yahoo.com
+
+Password: reytosfamily56
+
+Name: Mark Jonathan Reytos
+
+UID: 65773876
+
+# 17. EARIST-ITE(school) 
+Email: reytos.mj.bsinfotech@gmail.com
+
+Password: mjreytos123456
+
+Student no. 204-0383
+
+School year: Graduated
+
+# 18. chat.openai or ChatGPT(OpenAi)
+* 1st account
+Username:mjuser299@gmail.com
+
+Password:mjuser123
+
+Name: Mark Jonathan Reytos
+
+* 2nd Account
+Email:reytosmarkjonathan@gmail.com
+
+Password: reytosfamily32
