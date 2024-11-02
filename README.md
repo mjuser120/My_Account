@@ -126,12 +126,9 @@ School year: Graduated
 # 18. chat.openai or ChatGPT(OpenAi)
 * 1st account
 Username:mjuser299@gmail.com
-
 Password:mjuser123
-
 Name: Mark Jonathan Reytos
 
 * 2nd Account
 Email:reytosmarkjonathan@gmail.com
-
 Password: reytosfamily32
